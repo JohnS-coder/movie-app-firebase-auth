@@ -1,9 +1,8 @@
-.env file content
+Uygulamayı kullanabilmek için-->
+1- clone edin
+2- npm install/ yarn install
+3- firebase config verilerinizi firebase.js de ilgili yerlere yapıştırın.
+4- TMDB API_KEY inizi uygulama içindeki (Main.js) api_key ile değiştirin.
+5- npm start / yarn start
 
-REACT_APP_API_KEY=
-REACT_APP_AUTH_DOMAIN=
-REACT_APP_PROJECT_ID=
-REACT_APP_STORAGE_BUCKET=
-REACT_APP_MESSAGING_SENDER_ID=
-REACT_APP_APP_ID=
-# movie-app-firebase-auth
+keyifli kullanımlar :))
